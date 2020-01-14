@@ -19,8 +19,3 @@ mybatis:
   type-aliases-package: demo.microservice.entity
   configuration:
     map-underscore-to-camel-case: true
-
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:7001/eureka
