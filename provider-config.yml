@@ -2,7 +2,3 @@ mybatis:
   type-aliases-package: demo.microservice.entity
   configuration:
     map-underscore-to-camel-case: true
-
-jasypt:
-  encryptor:
-    password: 123
